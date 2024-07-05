@@ -18,7 +18,7 @@
 
 ## PointNet++
 - Reading the paper
-- ![PointNet++](https://krmzyc-filecloud.oss-cn-beijing.aliyuncs.com/theory/Qi%20et%20al_2017_PointNet%2B%2B.pdf)
+- [PointNet++](https://krmzyc-filecloud.oss-cn-beijing.aliyuncs.com/theory/Qi%20et%20al_2017_PointNet%2B%2B.pdf)
 
 ## Next Week Plan
 - Use Docker to run PoseCNN on the host machine.
